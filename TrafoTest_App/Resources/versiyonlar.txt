@@ -1,0 +1,37 @@
+Versiyon 1.0
+- Ýlk Sürüm
+
+Versiyon 1.1
+- Raporlama ekranýna iyileþtirmeler
+- Gösterge ekranýnda yapýlan gösterge deðiþikleri
+- Alarmlar kýsmýnda iyileþtirmeler
+- Hatalarýn Giderilmesi
+
+Versiyon 1.2
+- Reçeteler ekranýnda silme seçeneði eklendi.
+- Manuel Ýþlemler ilgili altyapý düzenlemeleri yapýldý.
+- Proses raporu alýrken excel'in arka planda kalmasý düzeltildi.
+- PLC'den okunan verinin yuvarlanmasý için düzenleme yapýldý.
+- Tank Gösterge kýsmýnda sýcaklýk, basýnç, valflerin ve arýzalarýn gösterimi ve kontrolü sürekli hale geldi.
+- PLC'den gelen reçete adým kalan süre ve toplam geçen iþlem süresi alýnýp gün - saat - dakika þekilde formatlandý.
+- Reçete seçme ekranýna 10 adet trafo girme seçeneði eklendi.
+- Raporlar ekranýna girilen trafolarý gösterecek þekilde düzenleme yapýldý.
+- Tank tahliye butonu eklendi. Bekleme modunda ve iþlem yok modunda aktif olacak þekilde ayarlandý.
+- Manuel kontrol sekmesi kaldýrýldý. Araçlar menüsü altýna yönetici þifresi kontrolünde açýlacak hale geldi.
+- Veritabaný yedekleme özelliði eklendi.
+- Grafikte iyileþtirmeler yapýldý.
+- Hatalarýn Giderilmesi
+
+Versiyon 1.3
+- Ana sayfada bulunan valflerin (Vakum ve Tahliye valflerinin) kapalý veya açýk olma durumlarý açýklanmýþtýr.
+- Ana sayfada proses olan tankýn reçete bilgisi eklendi. Reçete ismine çift týklandýðýnda reçete detaylarý listelenmektedir.
+- Raporlar sayfasýnda buton ismi deðiþmiþtir.
+- Ana sayfada prosesin toplam kalan zamaný eklenmiþtir.
+- Ýþlem Bitince ve PLC Baðlantýsý kopunca mail atacak hale getirildi.
+- Recete ekranlarýnda saat ismini süre olarak birimini (Saat) ,derece ismini sicaklýk olarak birimi(°C) olarak güncellendi.
+- Ana sayfadaki durum bildirme renk tonlarý güncellendi.
+- Manuel iþlemler sayfasýnýn baþlýðýnýn izleme ve kontrol sayfasý olarak deðiþtirildi. Renkler konusunda açýklamalar eklendi.
+- Rapor Sorgulama sayfasýnda Trafo Numarasýna göre filtreleme seçeneði eklendi.
+- Grafik izleme ve rapor kýsmýnda vakum eksenine minör cizgileri eklendi.
+- Grafik ekranýnda scala 4 digit(0,0001) olarak güncellendi.
+- Rapor sayfasýna trafo isimlerinin eklendi.

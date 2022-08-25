@@ -1,0 +1,9 @@
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\TrafoTest_Model.dll.config
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\EntityFramework.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\EntityFramework.SqlServer.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\EntityFramework.xml
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Release\EntityFramework.SqlServer.xml
+D:\Projeler\TrafoTest\TrafoTest_Model\obj\Release\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\obj\Release\TrafoTest_Model.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TrafoTest_App.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RaporlarEkraniEkranYenileme" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="VeritabaniKayit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PLC_IPAdres" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.10</Value>
+    </Setting>
+    <Setting Name="DemoMod" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TankGostergeEkranGuncellemeZamani" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MailAdresleri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">alikara658@gmail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,89 @@
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.xml
+D:\Projeler\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+D:\Projeler\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
+C:\Users\user\Desktop\Enomak_Proses\calismam\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csprojResolveAssemblyReference.cache
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.dll
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.xml
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.Cache
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
+C:\Users\user pc\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csprojResolveAssemblyReference.cache
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.dll
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.xml
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csprojResolveAssemblyReference.cache
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.Cache
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+C:\Users\YIGIDO\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\EntityFramework.dll
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\EntityFramework.xml
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\obj\Debug\TrafoTest_Model.csprojResolveAssemblyReference.cache
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.Cache
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.CoreCompileInputs.cache
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest_v2\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.dll
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.xml
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.IkinciGuncelleme.resources
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.Cache
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.CoreCompileInputs.cache
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
+D:\Projeler\TrafoTest\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csprojResolveAssemblyReference.cache
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll.config
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.dll
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\TrafoTest_Model.pdb
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.dll
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.xml
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.InitialMigration.resources
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.Migrations.IkinciGuncelleme.resources
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.csproj.CopyComplete
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.dll
+C:\Users\ali\Desktop\TrafoTest\TrafoTest_Model\obj\Debug\TrafoTest_Model.pdb
