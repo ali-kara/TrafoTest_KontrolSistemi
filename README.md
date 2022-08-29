@@ -1,6 +1,6 @@
 ## Developed in 2017 ## 
 
-<b>Projede;</b>
+<h3>Projede;</h3>
  * C# Windows Form dili ile geliştirilmiştir.
  * Veritabanı olarak MSSQL Server tercih edilmiştir.
  * ORM olarak Entity Framework kullanılmıştır.
