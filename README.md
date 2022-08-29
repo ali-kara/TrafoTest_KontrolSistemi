@@ -1,12 +1,29 @@
-## 2017 ## 
+## Developed in 2017 ## 
 
-Trafo Sistemlerinin Test sürecinde kullanılmak üzere geliştirilmiş bir kontrol - raporlama yazılımıdır.
+Projede;
+ * C# Windows Form dili ile geliştirilmiştir.
+ * Veritabanı olarak MSSQL Server tercih edilmiştir.
+ * ORM olarak Entity Framework kullanılmıştır.
+ * Herhangi bir üçüncü parti kontrol kullanılmamıştır.
 
-Bu yazılım aracılığıyla test makinelerinin başlatılması, bitirilmesi, durdurulması ve diğer özelliklerinin kullanılması için gerekli komutlarının gönderilmesi için gerekli PLC bağlantıları TCP-IP üzerinden gönderilmektedir. Sistem 4 adet makineyi aynı anda desteklemektedir.
+
+Trafo Sistemlerinin Test işlemlerini yapan makinelerin çalışma sürecinde sürecinde kullanılmak üzere geliştirilmiş bir kontrol - raporlama yazılımıdır.
+
+Bu yazılım aracılığıyla test makinelerinin başlatılması, bitirilmesi, durdurulması ve diğer özelliklerinin kullanılması amacıyla gerekli komutlar TCP-IP üzerinden PLC'ye gönderilmektedir.
+
+Sistem 4 adet makineyi aynı anda desteklemektedir.
 
 İşlem başlatıldığı zaman raporlama maksatlı makinelerin anlık sensör verileri kaydedilir ve makinenin hata durumuna geçmesi durumunda alarm altyapısı sayesinde ilgli kişilere mail atılır.
 
-Geçmiş işlemlere ait verileri raporlama modülü sayesinde çıktı olarak alınabilmektedir.
+İşlemler gerçek zamanlı olarak kaydedilebilmektedir. Anlık olarak her bir makieneye ait veriler grafiksel gösterim sağlamaktadır. Geçmiş işlemlere ait verileri raporlama modülü sayesinde çıktı olarak alınabilmektedir.
+
+Test süreç proses adımlarını tanımlama imkanı bulunmaktadır.
+
+Manuel kontroller sayesinde direk makinelere komut gönderme yeteneği bulunmaktadır.
+
+Veritabanı yedekleme ve yükleme özelliği ile istenilen zamanki verilere erişelebilmektedir.
+
+
  
 ![Genel Ekran](https://user-images.githubusercontent.com/99508918/186651876-ca20508a-8213-46e0-b600-0daa59651cee.png)
 ![Trafo-IslemBasladi](https://user-images.githubusercontent.com/99508918/186651883-5b1d02d9-05dd-466d-aa1e-9664a89c2329.png)
